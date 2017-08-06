@@ -5,4 +5,4 @@
 <img src="https://github.com/Gavinchang1/web-reader/blob/master/%E7%A7%BB%E5%8A%A8.PNG"><br/>
 呼出面板<br/>
 <img src="https://github.com/Gavinchang1/web-reader/blob/master/%E5%91%BC%E5%87%BA.PNG"><br/>
-*还是有很多需要优化的地方。有需要的话会一点点迭代*
+*代码细节还是有很多需要优化的地方。有需要的话会一点点迭代*
